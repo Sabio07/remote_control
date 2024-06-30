@@ -1,0 +1,13 @@
+{
+    "voice": true,
+    "sound": true,
+    "volumen_user": 1.0,
+    "writing_speed": 0.02,
+    "speech_recognition_lang": "es-ES",
+    "voice_model": "Nothing",
+    "shutdown_time": "15",
+    "scroll_up": 100,
+    "scroll_down": -100,
+    "text_to_speech_assistant_model": "Nothing",
+    "dark_mode": true
+}
